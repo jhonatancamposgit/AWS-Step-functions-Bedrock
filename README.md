@@ -1,2 +1,2 @@
 # Step-functions
- Repositório curso AWS
+ Repositório curso AWS.
